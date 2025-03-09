@@ -1,14 +1,15 @@
 {
   "name": "2go-for-meteor",
   "version": "8.8.8",
-  "description": "Thsi is a node project",
+  "description": "Node.js application for Meteor deployment",
   "main": "index.js",
   "author": "trance",
   "repository": "https://github.com/trance/2go-for-meteor",
   "license": "MIT",
   "private": false,
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "build": "echo 'No build step required'"
   },
   "engines": {
     "node": ">=14"
