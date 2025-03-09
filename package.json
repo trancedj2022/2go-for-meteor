@@ -1,0 +1,16 @@
+{
+  "name": "2go-for-meteor",
+  "version": "8.8.8",
+  "description": "Thsi is a node project",
+  "main": "index.js",
+  "author": "trance",
+  "repository": "https://github.com/trance/2go-for-meteor",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
